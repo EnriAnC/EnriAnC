@@ -19,7 +19,7 @@ Soy un Desarrollador Full Stack JavaScript Jr con experiencia en el Front con Re
 
 ## Proyectos Relevantes
 
-Aquí hay una lista de algunos de mis proyectos relevantes. Puedes encontrar más información sobre estos proyectos en mi perfil de GitHub:
+Aquí hay una lista de algunos de mis proyectos relevantes. Puedes encontrar más información en los repositorios correspondientes:
 
 - ⚡ PokemonProject [ Repositorio: https://github.com/EnriAnC/PokemonProject-NextJS ]
 - ⚡ MicroService Login/Register [ Repositorio: https://github.com/EnriAnC/MicroService-Login-And-Register-NestJS ]
