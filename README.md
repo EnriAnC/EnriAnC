@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# ¡Hola! Soy [Tu nombre aquí](enlace a tu perfil de GitHub)
+# ¡Hola! Soy Enrique Ansa Calcina https://github.com/EnriAnC
 
-Soy un desarrollador full stack jr con experiencia en [lenguajes de programación y tecnologías relevantes que conoces].
+Soy un Desarrollador Full Stack JavaScript Jr con experiencia en React, NextJS y NestJS.
 
 ## Proyectos Relevantes
 
