@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 # ¡Hola! 👋 Soy Enrique Ansa Calcina https://github.com/EnriAnC
 
-Soy un Desarrollador Full Stack JavaScript Jr con experiencia en el Front con React, NextJS y NestJS. Y en el Back con NodeJS, NestJS y Express.
+Soy un Desarrollador Full Stack JavaScript Jr con experiencia en el Front con JavaScript ES6+, React y NextJS. Y en el Back con NodeJS, NestJS y Express.
 
 ## Proyectos Relevantes
 
