@@ -1,29 +1,13 @@
-<!--
-**EnriAnC/EnriAnC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# ¡Hola! 👋 Soy Enrique Ansa Calcina
 
-Here are some ideas to get you started:
+Soy un Desarrollador Full Stack Jr con experiencia en el Front con JavaScript ES6+, React y NextJS. Y en el Back con NodeJS, NestJS, FastAPI y Java Spring Boot.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Un poco de mi actualmente
 
-# ¡Hola! 👋 Soy Enrique Ansa Calcina https://github.com/EnriAnC
-
-Soy un Desarrollador Full Stack JavaScript Jr con experiencia en el Front con JavaScript ES6+, React y NextJS. Y en el Back con NodeJS, NestJS y Express.
-
-## Proyectos Relevantes
-
-Aquí hay una lista de algunos de mis proyectos relevantes. Puedes encontrar más información en los repositorios correspondientes:
-
-- ⚡ PokemonProject [ Repositorio: https://github.com/EnriAnC/PokemonProject-NextJS ]
-- ⚡ MicroService Login/Register [ Repositorio: https://github.com/EnriAnC/MicroService-Login-And-Register-NestJS ]
-- ⚡ E-Commerce Full-Stack [ Repositorios: Front - https://github.com/EnriAnC/Chocolateria-FrontEnd-JS && Back - https://github.com/EnriAnC/Chocolateria-backend-node ]
-- ⚡ E-Commerce MVC Full-Stack [ Repositorio: https://github.com/EnriAnC/BROWN-DRESSES----MVC----NODE-EXPRESS ]
+- 🔭 Me encuentro trabajando en un proyecto blog con potentes tecnologías como Java 17, Spring Boot, Spring Security, Keycloack, GraphQL, React, TypeScript, MongoDB. Enfocandome en las buenas prácticas y en la seguridad.
+- 🌱 Me encuentro profundizando en React y Java Spring Boot.
+- 💬 Puedes preguntarme sobre JavaScript, TypeScript, Python, Java, Desarrollo FrontEnd, Desarrollo BackEnd.
+- 👯 Estoy abierto a colaborar a otros proyectos.
+- 📫 ¡Sientete libre de enviarme un mensaje!.
 
 ¡Gracias por visitar mi perfil de GitHub! Si tienes alguna pregunta o comentario, no dudes en ponerte en contacto conmigo.
