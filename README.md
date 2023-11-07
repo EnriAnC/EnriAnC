@@ -1,6 +1,6 @@
 # ¡Hola! 👋 Soy Enrique Ansa Calcina
 
-Soy un Desarrollador Full Stack con experiencia en el Front con JavaScript ES6+, React y NextJS. Y en el Back con NodeJS, NestJS, FastAPI y Java Spring Boot.
+Soy un Desarrollador Full Stack con experiencia en el Front con JavaScript, React y Angular. Y en el Back con NodeJS, FastAPI, Django, DRF y Java Spring Boot.
 
 ## Un poco de mi actualmente
 
